@@ -1,6 +1,6 @@
 {
   "branches": [
-    "main",
+    "sponsorblock",
     {
       "name": "dev",
       "prerelease": true
